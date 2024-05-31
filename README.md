@@ -42,7 +42,7 @@ Visando a evolução do sistema, sugerimos algumas possibilidades de melhorias f
 * Implementação de painéis solares para energizar o sistema;
 * Conexão de internet via satélite para o envio dos dados aos servidores.
 
-### Reprodução visual:
+## Reprodução visual:
 
 * #### TinkerCad <br>
 ![image](https://github.com/RafaelDuarteF/gs-edge/assets/103393497/4deba006-fb4b-462f-9279-83654084b6d1)
