@@ -8,9 +8,9 @@ Rafael Duarte, RM 558644 <br>
 Enzo Diógenes, RM 555062 <br>
 
 ## Link da simulação
-TinkerCad:
-[https://www.tinkercad.com/things/eaBaSlt0gzp-medidores-de-distancia-entre-carros-e-temperatura-da-pista](https://www.tinkercad.com/things/kQo71pynHdW-terrific-bruticus)
-Wokwi:
+TinkerCad: <br>
+[https://www.tinkercad.com/things/eaBaSlt0gzp-medidores-de-distancia-entre-carros-e-temperatura-da-pista](https://www.tinkercad.com/things/kQo71pynHdW-terrific-bruticus) <br>
+Wokwi: <br>
 [https://wokwi.com/projects/399140611967250433]
 
 ## Observações
