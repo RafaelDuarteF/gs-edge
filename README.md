@@ -9,7 +9,7 @@ Enzo Diógenes, RM 555062 <br>
 
 ## Link da simulação
 TinkerCad: <br>
-[https://www.tinkercad.com/things/eaBaSlt0gzp-medidores-de-distancia-entre-carros-e-temperatura-da-pista](https://www.tinkercad.com/things/kQo71pynHdW-terrific-bruticus) <br>
+https://www.tinkercad.com/things/kQo71pynHdW-gs-edge-computing <br>
 Wokwi: <br>
 https://wokwi.com/projects/399140611967250433
 
