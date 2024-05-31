@@ -44,11 +44,11 @@ Visando a evolução do sistema, sugerimos algumas possibilidades de melhorias f
 
 ### Reprodução visual:
 
-* TinkerCad
+* TinkerCad <br>
 ![image](https://github.com/RafaelDuarteF/gs-edge/assets/103393497/4deba006-fb4b-462f-9279-83654084b6d1)
 ![image](https://github.com/RafaelDuarteF/gs-edge/assets/103393497/50f5210f-c583-4928-a30a-b40ca1c70c79)
 
-* Wokwi
+* Wokwi <br>
 ![image](https://github.com/RafaelDuarteF/gs-edge/assets/103393497/e4d4b2fe-756b-4da0-aab6-e10900ecd172)
 
 ### Código utilizado:
