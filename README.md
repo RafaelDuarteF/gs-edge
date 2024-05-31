@@ -53,7 +53,7 @@ Visando a evolução do sistema, sugerimos algumas possibilidades de melhorias f
 
 ### Código utilizado:
 
-#### * TinkerCad:
+* #### TinkerCad:
 
 ```C++
 #include <Adafruit_LiquidCrystal.h>
@@ -134,7 +134,7 @@ void loop(){
 }
 ```
 
-#### * Wokwi:
+* #### Wokwi:
 
 ```C++
 #include <WiFi.h>
